@@ -8,6 +8,7 @@ SCOPE
 
 SPIKES
 - sprint meter
+- create a few enemy objects
 
 MEMBERS
 Adam
