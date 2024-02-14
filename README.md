@@ -9,6 +9,8 @@ SCOPE
 SPIKES
 - sprint meter
 - create a few enemy objects
+- make the first stage
+- make a boss with mechanics
 
 MEMBERS
 Adam
