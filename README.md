@@ -1,10 +1,15 @@
 # godotproject
  TechSynergy Video Game Design
 
-IDEA
- 
+SCOPE
+- The player moves left to right through a level dodging enemies and obstacles ending with a boss fight at the end. 
+- Each level or stage gets stronger as the play progresses
+- Each stage has a theme and ends with a boss with unique mechanics
 
+SPIKES
+- sprint meter
 
+MEMBERS
 Adam
 
 Steven
@@ -28,7 +33,6 @@ QoL - minor tweaks here and there to improve gameplay
 
 Klaus
 Sound / Music
-
 
 
 
